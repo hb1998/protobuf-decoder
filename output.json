@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__": 836154.0329999996,
+      "Orders.Category": "Technology",
+      "_cellMeta": {
+        "measureGuid": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "source": "Native",
+        "scenarioId": "0",
+        "isAggregated": true,
+        "rowId": "Grand__Total",
+        "columnId": "Technology__Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "columnName": "Technology_X_Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "isNull": false
+      }
+    },
+    {
+      "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__": 741999.7953000006,
+      "Orders.Category": "Furniture",
+      "_cellMeta": {
+        "measureGuid": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "source": "Native",
+        "scenarioId": "0",
+        "isAggregated": true,
+        "rowId": "Grand__Total",
+        "columnId": "Furniture__Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "columnName": "Furniture_X_Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "isNull": false
+      }
+    },
+    {
+      "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__": 719047.0320000009,
+      "Orders.Category": "Office Supplies",
+      "_cellMeta": {
+        "measureGuid": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "source": "Native",
+        "scenarioId": "0",
+        "isAggregated": true,
+        "rowId": "Grand__Total",
+        "columnId": "Office__Supplies__T2ZmaWNlJTIwU3VwcGxpZXM____Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "columnName": "Office__Supplies__T2ZmaWNlJTIwU3VwcGxpZXM___X_Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "isNull": false
+      }
+    },
+    {
+      "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__": 2297200.8603000008,
+      "_cellMeta": {
+        "measureGuid": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "source": "Native",
+        "scenarioId": "0",
+        "isAggregated": true,
+        "rowId": "Grand__Total",
+        "columnId": "Grand__Total__Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "columnName": "Grand__Total_X_Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+        "isNull": false
+      }
+    }
+  ]
+}
